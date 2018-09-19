@@ -12,6 +12,7 @@
         <module name="consumer" />
         <module name="eureka-server" />
         <module name="provider" />
+        <module name="rabbitmq" />
         <module name="springCloud" />
       </profile>
     </annotationProcessing>
